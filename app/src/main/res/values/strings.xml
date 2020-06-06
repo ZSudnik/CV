@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CV</string>
+    <string name="but_add">Add new CV</string>
+    <string name="but_arch">Show CV</string>
+
+
+    <string name="str_under_const">Under construction</string>
+    <string name="delete_cv">Delete</string>
+    <string name="update_cv">Update</string>
+    <string name="but_ok">OK</string>
+
+</resources>
